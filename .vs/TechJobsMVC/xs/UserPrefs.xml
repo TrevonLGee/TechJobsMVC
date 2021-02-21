@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F0D59968-C8DF-440B-9D4A-1708E494B0BE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechJobsMVC/Controllers/ListController.cs">
+    <Files>
+      <File FileName="TechJobsMVC/Controllers/ListController.cs" Line="63" Column="2" />
+      <File FileName="TechJobsMVC/Controllers/HomeController.cs" Line="25" Column="2" />
+      <File FileName="TechJobsMVC/Controllers/SearchController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TechJobsMVC" expanded="True">
+            <Node name="TechJobsMVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TechJobsMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
